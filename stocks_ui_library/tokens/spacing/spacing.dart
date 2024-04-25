@@ -1,16 +1,16 @@
 class Spacing {
-  final num grad0 = 0;
-  final num grad5 = 2;
-  final num grad25 = 4;
-  final num grad50 = 8;
-  final num grad75 = 12;
-  final num grad100 = 16;
-  final num grad150 = 24;
-  final num grad200 = 32;
-  final num grad250 = 40;
-  final num grad300 = 48;
-  final num grad400 = 64;
-  final num grad500 = 80;
-  final num grad600 = 96;
-  final num grad1000 = 160;
+  final double grad0 = 0;
+  final double grad5 = 2;
+  final double grad25 = 4;
+  final double grad50 = 8;
+  final double grad75 = 12;
+  final double grad100 = 16;
+  final double grad150 = 24;
+  final double grad200 = 32;
+  final double grad250 = 40;
+  final double grad300 = 48;
+  final double grad400 = 64;
+  final double grad500 = 80;
+  final double grad600 = 96;
+  final double grad1000 = 160;
 }

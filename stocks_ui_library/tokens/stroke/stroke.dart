@@ -1,12 +1,12 @@
 class Stroke {
-  final num grad100 = 1;
-  final num grad200 = 2;
-  final num grad300 = 3;
-  final num grad400 = 4;
-  final num grad500 = 5;
-  final num grad600 = 6;
-  final num grad700 = 7;
-  final num grad800 = 8;
-  final num grad900 = 9;
-  final num grad1000 = 10;
+  final double grad100 = 1;
+  final double grad200 = 2;
+  final double grad300 = 3;
+  final double grad400 = 4;
+  final double grad500 = 5;
+  final double grad600 = 6;
+  final double grad700 = 7;
+  final double grad800 = 8;
+  final double grad900 = 9;
+  final double grad1000 = 10;
 }
