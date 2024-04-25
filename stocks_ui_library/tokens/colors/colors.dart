@@ -1,4 +1,3 @@
-import '../../stocks_ui.dart';
 import 'models/color_pure_tone_model.dart';
 import 'models/color_text_tone_model.dart';
 import 'models/color_tone_model.dart';
@@ -62,9 +61,9 @@ class Colors {
   );
 
   ColorTextToneModel text = ColorTextToneModel(
-    primaryLight: StocksUi.colors.neutral.grad900,
-    primaryDark: StocksUi.colors.pure.white,
-    secondaryLight: StocksUi.colors.neutral.grad700,
-    secondaryDark: StocksUi.colors.neutral.grad100,
+    primaryLight: 0XFF141414,
+    primaryDark: 0XFFFFFFFF,
+    secondaryLight: 0XFF515151,
+    secondaryDark: 0XFFE0E0E0,
   );
 }
