@@ -109,8 +109,8 @@ class Colors {
 
   ColorTextToneModel text = ColorTextToneModel(
     primaryLight: 0XFF0A0A0A,
-    primaryDark: 0XFFFFFFFF,
     secondaryLight: 0XFF1F1F1F,
-    secondaryDark: 0XFF9F9F9,
+    primaryDark: 0XFFFFFFFF,
+    secondaryDark: 0XFFE6E6E6,
   );
 }

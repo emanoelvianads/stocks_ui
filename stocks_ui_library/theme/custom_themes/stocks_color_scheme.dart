@@ -28,16 +28,21 @@ class StocksColorScheme {
     onErrorContainer: Color(StocksUi.colors.error.grad90),
 
     /// Background
-    background: Color(StocksUi.colors.neutral.grad5),
-    onBackground: Color(StocksUi.colors.neutral.grad99),
+    background: Color(StocksUi.colors.neutralVariant.grad5),
+    onBackground: Color(StocksUi.colors.neutralVariant.grad99),
 
     /// Surface
-    surface: Color(StocksUi.colors.neutral.grad5),
-    onSurface: Color(StocksUi.colors.neutral.grad99),
-    surfaceVariant: Color(StocksUi.colors.neutral.grad10),
-    onSurfaceVariant: Color(StocksUi.colors.neutral.grad99),
-    inverseSurface: Color(StocksUi.colors.neutral.grad98),
-    onInverseSurface: Color(StocksUi.colors.neutral.grad5),
+    surface: Color(StocksUi.colors.neutralVariant.grad5),
+    onSurface: Color(StocksUi.colors.neutralVariant.grad99),
+    surfaceVariant: Color(StocksUi.colors.neutralVariant.grad10),
+    onSurfaceVariant: Color(StocksUi.colors.neutralVariant.grad99),
+    inverseSurface: Color(StocksUi.colors.neutralVariant.grad98),
+    onInverseSurface: Color(StocksUi.colors.neutralVariant.grad5),
     surfaceTint: Color(StocksUi.colors.primary.grad25),
+
+    /// Outline
+    outline: Color(StocksUi.colors.neutralVariant.grad15),
+    outlineVariant: Color(StocksUi.colors.neutralVariant.grad40),
+
   );
 }
